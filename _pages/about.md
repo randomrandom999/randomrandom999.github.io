@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <span style="font-size: 1.5em;">CS5670, Spring 2024, Cornell Tech
 
 profile:
   align: right
