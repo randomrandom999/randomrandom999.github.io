@@ -15,11 +15,13 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The goal of computer vision is to compute properties of the three-dimensional world from digital images. Problems in this field include reconstructing the 3D shape of an environment, determining how things are moving, and recognizing people and objects and their activities, all through analysis of images and videos.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, 3D shape reconstruction, object/face detection and recognition, and deep learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, autonomous driving, robotics, virtual and augmented reality, medical imaging, and vision on mobile devices.
+
+This is a project-based course, in which you will implement several computer vision algorithms throughout the semester.
