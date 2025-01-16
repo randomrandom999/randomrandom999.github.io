@@ -33,7 +33,7 @@ This is a project-based course, in which you will implement several computer vis
 - **Location:** Bloomberg 000
 - **Discussion:** [Ed](#) / [Canvas](#)
 - **Homework submission:** [Gradescope](#)
-- **Schedule and Lecture Notes:** The schedule and lecture notes are posted [here](#).
+- **Schedule and Lecture Notes:** The schedule and lecture notes are posted [here](./lectures/index.html).
 
 ---
 
@@ -59,7 +59,7 @@ This is a project-based course, in which you will implement several computer vis
     <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VZvmpKoAAAAJ&citpid=1" alt="" style="border-radius: 50%; width: 100px; height: 100px;">
     <p><strong>TA</strong><br>
     <a href="https://haian-jin.github.io/">Haian Jin</a><br>
-    Email: <a href="mailto:haianjin0415@gmail.com">haianjin0415@gmail.com</a><br>
+    Email: <a href="mailto:haianjin0415@gmail.com">hj453@cornell.edu</a><br>
     Office hours: Tuesday</p>
   </div>
 
